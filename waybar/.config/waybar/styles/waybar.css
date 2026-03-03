@@ -1,9 +1,11 @@
 #waybar {
-	background-color: @outline;
+	background-color: transparent;
 }
 #waybar > box {
 	margin: 0px;
 	background-color: @main-bg;
+	border-radius: 10px;
+  opacity: 0.95
 }
 
 /*--------------
