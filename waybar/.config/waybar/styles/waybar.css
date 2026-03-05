@@ -5,7 +5,8 @@
 	margin: 0px;
 	background-color: @main-bg;
 	border-radius: 10px;
-  opacity: 0.95
+  opacity: 0.95;
+  border: 1px solid #ffffff;
 }
 
 /*--------------
